@@ -3,7 +3,7 @@
 client_id = "81630d493e8c1b143bf45176928be492"
 name = "wtest0727"
 handle = "wtest0727"
-application_url = "https://valid-enables-equality-tags.trycloudflare.com"
+application_url = "https://mine-shopify.onrender.com"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = "write_products"
 
 [auth]
-redirect_urls = ["https://valid-enables-equality-tags.trycloudflare.com/auth/callback", "https://valid-enables-equality-tags.trycloudflare.com/auth/shopify/callback", "https://valid-enables-equality-tags.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://mine-shopify.onrender.com/auth/callback", "https://mine-shopify.onrender.com/auth/shopify/callback", "https://mine-shopify.onrender.com/api/auth/callback"]
 
 [pos]
 embedded = false
